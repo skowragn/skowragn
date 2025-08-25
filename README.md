@@ -23,3 +23,4 @@
 | **Azure Functions and ASP.NET Core Blazor** | https://github.com/skowragn/Azure_Functions_and_Blazor |**$${\color{green}Azure}$$** **$${\color{green}Functions}$$**, **ASP.NET Core 8 Blazor**, **ASP.NET Core 8 Web API**, **C# 12**, **.NET 8**| **$${\color{blue}private/}$$** **$${\color{blue}under}$$** **$${\color{blue}construction}$$**   |
 | **Reference Architecture/TOGAF** | https://github.com/skowragn/Reference_Architecture | **TOGAF**, **C4**, **UML**, **ArchiMate**| **$${\color{blue}private/}$$** **$${\color{blue}under}$$** **$${\color{blue}construction}$$**  |
 |**API Design**|https://github.com/skowragn/API_Design| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public/}$$**  **$${\color{green}under}$$** **$${\color{green}construction}$$**|
+|**API Design_GraphQL**|https://github.com/skowragn/API_Design_GraphQL| **GraphQL API** with ASP.NET Core 8 Web API | **$${\color{blue}public}$$** |
