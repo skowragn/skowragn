@@ -4,7 +4,9 @@
 
 ● Knowledge of Event-Driven Architecture, Azure Well-Architected Framework, Cloud Adoption Framework and Cloud Design Patterns. ⛅
 
-● Highly proficient in C#/.NET (.NET Framework, .NET Core, .NET Standard, .NET 5-8, ASP.NET Core) with Clean Architecture approach (including CQRS, Event Sourcing and Saga). 🌐
+● Highly proficient in C#/.NET (.NET Framework, .NET Core, .NET Standard, .NET 5-8, ASP.NET Core - Web API, gRPC services, Blazor, MVC) with Clean Architecture approach (including CQRS, Event Sourcing and Saga). 🌐
+
+● I have extensive hands-on experience in modernizing legacy backend services (Web Services, Windows Services, WCF) by transitioning them to contemporary architectures such as ASP.NET Core Web API, gRPC, and GraphQL, within large-scale distributed systems deployed both on-premises and in the cloud.
 
 ● Successful design and implementation of the large-scale Identity and Access Management (experience with SAML 2.0, OAuth 2.0, OpenID Connect 2.0, Single sign-on, OWASP Top 10). 🚀
 
