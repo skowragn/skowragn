@@ -35,7 +35,7 @@ Currently, I am expanding my AI capabilities by designing PoCs with Azure AI Ser
 | **Azure Service Fabric usage and Microservices** | https://github.com/skowragn/ASF_CurrencyManager |**$${\color{green}Azure}$$** **$${\color{green}Service}$$** **$${\color{green}Fabric}$$**, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$** |2022-2023 |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **Architecture & Design** 🏦
+## **Architecture & Design** 🏯
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | --- | --- |
 |**API Design**|https://github.com/skowragn/API_Design| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public/}$$** |2025|
