@@ -37,12 +37,12 @@ Currently, I am expanding my AI capabilities by designing PoCs with Azure AI Ser
 
 ## **Architecture & Design** 🏯
 | Project | Description | Framework/Solution | Status | Date |
-| --- | --- | --- | --- | --- |
-|**API Design**|https://github.com/skowragn/API_Design| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public/}$$** |2025|
-|**API Design_GraphQL**|https://github.com/skowragn/API_Design_GraphQL| **GraphQL API** with ASP.NET Core 8 Web API | **$${\color{blue}public}$$** |2025|
-| **Actor Model pattern with MS Orleans** | https://github.com/skowragn/Actor_Models_with_MSOrleans |MS Orleans, **ASP.NET Core 8 Blazor**, **C# 12**, **.NET 8**| **$${\color{blue}public}$$**  |2024-2025|
-| **Authorization with Balea and API Gateway usage**  | https://github.com/skowragn/IAM_ID6_Balea_with_APIGateway |Ocelot, YARP, Identity Server 6, Balea, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  |2023-2024|
-| **Redis usage** | https://github.com/skowragn/Redis_in_NET |RedisDB, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  |2023-2024|
+| --- | --- | --- | ---  |  --- |
+|**API Design**|https://github.com/skowragn/API_Design| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public/}$$** | 2025 |
+|**API Design_GraphQL**|https://github.com/skowragn/API_Design_GraphQL| **GraphQL API** with ASP.NET Core 8 Web API | **$${\color{blue}public}$$** | 2025 |
+| **Actor Model pattern with MS Orleans** | https://github.com/skowragn/Actor_Models_with_MSOrleans |MS Orleans, **ASP.NET Core 8 Blazor**, **C# 12**, **.NET 8**| **$${\color{blue}public}$$**  | 2024-2025 |
+| **Authorization with Balea and API Gateway usage**  | https://github.com/skowragn/IAM_ID6_Balea_with_APIGateway |Ocelot, YARP, Identity Server 6, Balea, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  | 2023-2024 |
+| **Redis usage** | https://github.com/skowragn/Redis_in_NET |RedisDB, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  | 2023-2024 |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Architecture Governance** 🏦
