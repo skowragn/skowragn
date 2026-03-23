@@ -22,17 +22,32 @@ Currently, I am expanding my AI capabilities by designing PoCs with Azure AI Ser
 
 **The complete list of my projects/POCs:**
 
+## **AI** 🐧
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | --- | --- |
 |**AI Trainings and Meetups**|https://github.com/skowragn/AI-Materials-and-PoCs | Curated materials from my AI trainings, meetups, and PoC work| **$${\color{blue}public}$$** |2025-2026|
-|**API Design**|https://github.com/skowragn/API_Design| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public/}$$** |2025|
-|**API Design_GraphQL**|https://github.com/skowragn/API_Design_GraphQL| **GraphQL API** with ASP.NET Core 8 Web API | **$${\color{blue}public}$$** |2025-2026|
-| **Blazor and Actor Model pattern with MS Orleans** | https://github.com/skowragn/Actor_Models_with_MSOrleans |MS Orleans, **ASP.NET Core 8 Blazor**, **C# 12**, **.NET 8**| **$${\color{blue}public}$$**  |2024-2025|
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Azure Cloud** ☁️
+| Project | Description | Framework/Solution | Status | Date |
+| --- | --- | --- | --- | --- |
 | **Azure Functions and ASP.NET Core Blazor** | https://github.com/skowragn/Azure_Functions_and_Blazor |**$${\color{green}Azure}$$** **$${\color{green}Functions}$$**, **ASP.NET Core 8 Blazor**, **ASP.NET Core 8 Web API**, **C# 12**, **.NET 8**| **$${\color{blue}private/}$$** **$${\color{green}under}$$** **$${\color{green}construction}$$**    |2024-2025|
-| **Reference Architecture/TOGAF** | https://github.com/skowragn/Reference_Architecture | **TOGAF**, **C4**, **UML**, **ArchiMate**| **$${\color{blue}private/}$$** **$${\color{green}under}$$** **$${\color{green}construction}$$**  |2023-2026|
+| **Azure Service Fabric usage and Microservices** | https://github.com/skowragn/ASF_CurrencyManager |**$${\color{green}Azure}$$** **$${\color{green}Service}$$** **$${\color{green}Fabric}$$**, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$** |2022-2023 |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## **Architecture & Design** 🏦
+| Project | Description | Framework/Solution | Status | Date |
+| --- | --- | --- | --- | --- |
+|**API Design**|https://github.com/skowragn/API_Design| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public/}$$** |2025|
+|**API Design_GraphQL**|https://github.com/skowragn/API_Design_GraphQL| **GraphQL API** with ASP.NET Core 8 Web API | **$${\color{blue}public}$$** |2025|
+| **Actor Model pattern with MS Orleans** | https://github.com/skowragn/Actor_Models_with_MSOrleans |MS Orleans, **ASP.NET Core 8 Blazor**, **C# 12**, **.NET 8**| **$${\color{blue}public}$$**  |2024-2025|
 | **Authorization with Balea and API Gateway usage**  | https://github.com/skowragn/IAM_ID6_Balea_with_APIGateway |Ocelot, YARP, Identity Server 6, Balea, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  |2023-2024|
 | **Redis usage** | https://github.com/skowragn/Redis_in_NET |RedisDB, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  |2023-2024|
-| **Azure Service Fabric usage and detailed description** | https://github.com/skowragn/ASF_CurrencyManager |**$${\color{green}Azure}$$** **$${\color{green}Service}$$** **$${\color{green}Fabric}$$**, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$** |2022-2023 |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## **Architecture Governance** 🏦
+| Project | Description | Framework/Solution | Status | Date |
+| --- | --- | --- | --- | --- |
+| **Reference Architecture/TOGAF** | https://github.com/skowragn/Reference_Architecture | **TOGAF**, **C4**, **UML**, **ArchiMate**| **$${\color{blue}private/}$$** **$${\color{green}under}$$** **$${\color{green}construction}$$**  |2025-2026|
 
 
