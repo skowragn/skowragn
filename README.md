@@ -48,6 +48,6 @@ Currently, I am expanding my AI capabilities by designing PoCs with Azure AI Ser
 ## **Architecture Governance** 🏦
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | --- | --- |
-| **Reference Architecture/TOGAF** | https://github.com/skowragn/Reference_Architecture | **TOGAF**, **C4**, **UML**, **ArchiMate**| **$${\color{blue}private/}$$** **$${\color{green}under}$$** **$${\color{green}construction}$$**  |2025-2026|
+| **Solution Architecture/TOGAF** | https://github.com/skowragn/EA_TOGAF_In_Practise | **TOGAF**, **C4**, **UML**| **$${\color{blue}public}$$**  |2025-2026|
 
 
