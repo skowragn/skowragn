@@ -25,7 +25,14 @@ Currently, I am expanding my AI capabilities by designing PoCs with Azure AI Ser
 ## **AI** 🐧
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | --- | --- |
-|**AI Trainings and Meetups**|https://github.com/skowragn/AI-Materials-and-PoCs | Curated materials from my AI trainings, meetups, and PoC work| **$${\color{blue}public}$$** |2025-2026|
+|**AI Trainings and Meetups**|[skowragn/AI-Materials-and-PoCs](https://github.com/skowragn/AI-Materials-and-PoCs) | AI trainings, meetups, and PoC work| <span style="color:blue">**public**</span> |2025-2026|
+
+## **GenAI Architecture** 🐧
+
+| Project | Description | Solution | Status | Date |
+| --- | --- | --- | --- | --- |
+| **Agentic RAG System** | [skowragn/Agentic_RAG_System](https://github.com/skowragn/Agentic_RAG_System) | RAG | <span style="color:blue">**public**</span> | 2026 |
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Azure Cloud** ☁️
