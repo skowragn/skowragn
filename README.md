@@ -1,6 +1,6 @@
 ## Hello, my name is Agnieszka Skowronska 👋
 
-I am a seasoned Solutions & Software Architect with 22+ years of experience delivering large‑scale, mission‑critical platforms across enterprise, industrial IoT, security, and financial domains. 
+I am a seasoned Solutions & Software Architect with 23+ years of experience delivering large‑scale, mission‑critical platforms across enterprise, industrial IoT, security, and financial domains. 
 
 I specialize in designing modern distributed systems, leading cloud transformation initiatives, and shaping long‑term architecture strategies that enable organizations to scale, innovate, and operate securely. 
 
@@ -22,17 +22,17 @@ Currently, I am expanding my AI capabilities by designing PoCs with Azure AI Ser
 
 **The complete list of my projects/POCs:**
 
-## **AI** 🐧
-| Project | Description | Framework/Solution | Status | Date |
-| --- | --- | --- | --- | --- |
-|**AI Trainings and Meetups**|[skowragn/AI-Materials-and-PoCs](https://github.com/skowragn/AI-Materials-and-PoCs) | AI trainings, meetups, and PoC work| <span style="color:blue">**public**</span> |2025-2026|
-
 ## **GenAI Architecture** 🐧
 
 | Project | Description | Solution | Status | Date |
 | --- | --- | --- | --- | --- |
-| **Agentic RAG System** | [skowragn/Agentic_RAG_System](https://github.com/skowragn/Agentic_RAG_System) | RAG | <span style="color:blue">**public**</span> | 2026 |
+| **Agentic RAG System** | [skowragn/Agentic_RAG_System](https://github.com/skowragn/Agentic_RAG_System) | RAG | **$${\color{blue}public}$$** | 2026 |
+| **Agentic RAG Data Flow: Content Discovery & Deep Contextual Search** | [Agentic_RAG_System/blob/main/DataFlow.md](https://github.com/skowragn/Agentic_RAG_System/blob/main/DataFlow.md) | RAG | **$${\color{blue}public}$$** | 2026 |
 
+## **AI** 🐧
+| Project | Description | Framework/Solution | Status | Date |
+| --- | --- | --- | --- | --- |
+|**AI Trainings and Meetups**|[skowragn/AI-Materials-and-PoCs](https://github.com/skowragn/AI-Materials-and-PoCs) | AI trainings, meetups, and PoC work| **$${\color{blue}public}$$** | 2025-2026 |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Azure Cloud** ☁️
