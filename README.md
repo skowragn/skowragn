@@ -26,35 +26,35 @@ Currently, I am expanding my AI capabilities by designing PoCs with Azure AI Ser
 
 | Project | Description | Solution | Status | Date |
 | --- | --- | --- | --- | --- |
-| **Agentic RAG System** | [skowragn/Agentic_RAG_System](https://github.com/skowragn/Agentic_RAG_System) | RAG | **$${\color{blue}public}$$** | 2026 |
-| **Agentic RAG Data Flow: Content Discovery & Deep Contextual Search** | [Agentic_RAG_System/blob/main/DataFlow.md](https://github.com/skowragn/Agentic_RAG_System/blob/main/DataFlow.md) | RAG | **$${\color{blue}public}$$** | 2026 |
+| **Agentic RAG System** | [Agentic RAG System](https://github.com/skowragn/Agentic_RAG_System) | RAG | **$${\color{blue}public}$$** | 2026 |
+| **Agentic RAG Data Flow: Content Discovery & Deep Contextual Search** | [Agentic RAG Data Flow](https://github.com/skowragn/Agentic_RAG_System/blob/main/DataFlow.md) | RAG | **$${\color{blue}public}$$** | 2026 |
 
 ## **AI** 🐧
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | --- | --- |
-|**AI Trainings and Meetups**|[skowragn/AI-Materials-and-PoCs](https://github.com/skowragn/AI-Materials-and-PoCs) | AI trainings, meetups, and PoC work| **$${\color{blue}public}$$** | 2025-2026 |
+|**AI Trainings and Meetups**|[AI Materials and PoCs](https://github.com/skowragn/AI-Materials-and-PoCs) | AI trainings, meetups, and PoC work| **$${\color{blue}public}$$** | 2025-2026 |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Azure Cloud** ☁️
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | --- | --- |
-| **Azure Functions and ASP.NET Core Blazor** | https://github.com/skowragn/Azure_Functions_and_Blazor |**$${\color{green}Azure}$$** **$${\color{green}Functions}$$**, **ASP.NET Core 8 Blazor**, **ASP.NET Core 8 Web API**, **C# 12**, **.NET 8**| **$${\color{blue}private/}$$** **$${\color{green}under}$$** **$${\color{green}construction}$$**    |2024-2025|
-| **Azure Service Fabric usage and Microservices** | https://github.com/skowragn/ASF_CurrencyManager |**$${\color{green}Azure}$$** **$${\color{green}Service}$$** **$${\color{green}Fabric}$$**, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$** |2022-2023 |
+| **Azure Functions and ASP.NET Core Blazor** |  [Azure Functions and Blazor](https://github.com/skowragn/Azure_Functions_and_Blazor) |**$${\color{green}Azure}$$** **$${\color{green}Functions}$$**, **ASP.NET Core 8 Blazor**, **ASP.NET Core 8 Web API**, **C# 12**, **.NET 8**| **$${\color{blue}private/}$$** **$${\color{green}under}$$** **$${\color{green}construction}$$**    |2024-2025|
+| **Azure Service Fabric usage and Microservices** | [Azure Service Fabric and Currency Manager](https://github.com/skowragn/ASF_CurrencyManager) |**$${\color{green}Azure}$$** **$${\color{green}Service}$$** **$${\color{green}Fabric}$$**, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$** |2022-2023 |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Architecture & Design** 🏯
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | ---  |  --- |
-|**API Design**|https://github.com/skowragn/API_Design| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public/}$$** | 2025 |
-|**API Design_GraphQL**|https://github.com/skowragn/API_Design_GraphQL| **GraphQL API** with ASP.NET Core 8 Web API | **$${\color{blue}public}$$** | 2025 |
-| **Actor Model pattern with MS Orleans** | https://github.com/skowragn/Actor_Models_with_MSOrleans |MS Orleans, **ASP.NET Core 8 Blazor**, **C# 12**, **.NET 8**| **$${\color{blue}public}$$**  | 2024-2025 |
-| **Authorization with Balea and API Gateway usage**  | https://github.com/skowragn/IAM_ID6_Balea_with_APIGateway |Ocelot, YARP, Identity Server 6, Balea, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  | 2023-2024 |
-| **Redis usage** | https://github.com/skowragn/Redis_in_NET |RedisDB, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  | 2023-2024 |
+|**API Design**|[API Design](https://github.com/skowragn/API_Design)| **REST API, Minimal API and gRPC API** with ASP.NET Core 8 and ASP.NET Core 8 gRPC Service | **$${\color{blue}public}$$** | 2025 |
+|**API Design_GraphQL**|[API Design with GraphQL](https://github.com/skowragn/API_Design_GraphQL)| **GraphQL API** with ASP.NET Core 8 Web API | **$${\color{blue}public}$$** | 2025 |
+| **Actor Model pattern with MS Orleans** |[Actor Model and MS Orleans](https://github.com/skowragn/Actor_Models_with_MSOrleans) |MS Orleans, **ASP.NET Core 8 Blazor**, **C# 12**, **.NET 8**| **$${\color{blue}public}$$**  | 2024-2025 |
+| **Authorization with Balea and API Gateway usage**  | [IAM and API Gateways](https://github.com/skowragn/IAM_ID6_Balea_with_APIGateway) |Ocelot, YARP, Identity Server 6, Balea, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  | 2023-2024 |
+| **Redis usage** | [Distributed Cache With Redis DB](https://github.com/skowragn/Redis_in_NET) |RedisDB, **C# 12**, **ASP.NET Core 8 Web API**, **.NET 8**| **$${\color{blue}public}$$**  | 2023-2024 |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Architecture Governance** 🏦
 | Project | Description | Framework/Solution | Status | Date |
 | --- | --- | --- | --- | --- |
-| **Solution Architecture/TOGAF** | https://github.com/skowragn/EA_TOGAF_In_Practise | **TOGAF**, **C4**, **UML**| **$${\color{blue}public}$$**  |2025-2026|
+| **Solution Architecture/TOGAF** | [Enterprise Architecture anad TOGAF](https://github.com/skowragn/EA_TOGAF_In_Practise) | **TOGAF**, **C4**, **UML**| **$${\color{blue}public}$$**  |2025-2026|
 
 
